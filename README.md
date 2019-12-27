@@ -10,3 +10,5 @@ The starbeast version of P2C2M can be found here: https://github.com/cran/P2C2M.
 The SNAPP version of P2C2M can be found here: https://github.com/P2C2M/P2C2M_SNAPP.
 
 Please try to install both packages before the workshop.
+
+Both tutorials can be found in the Tutorials folder.
